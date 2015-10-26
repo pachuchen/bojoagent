@@ -1,0 +1,111 @@
+/* line 3, ../sass/creativeSubsidiary.scss */
+.resouceImg {
+  background-image: url(../images/webResouceImgB.jpg);
+}
+
+/* line 6, ../sass/creativeSubsidiary.scss */
+#videoImg {
+  background-image: url(../images/videoResouceImgB.jpg);
+}
+
+/* line 10, ../sass/creativeSubsidiary.scss */
+#bannerImg {
+  background-image: url(../images/bannerResouceImgB.jpg);
+  background-position: 0px;
+}
+
+/* line 14, ../sass/creativeSubsidiary.scss */
+#questionImg {
+  background-image: url(../images/question_b.jpg);
+  background-position: 0px;
+}
+
+/* line 19, ../sass/creativeSubsidiary.scss */
+#livegame {
+  background-image: url(../images/livegame_b.jpg);
+  background-position: 0px;
+}
+
+/* line 24, ../sass/creativeSubsidiary.scss */
+#slotgame {
+  background-image: url(../images/slotgame_b.jpg);
+  background-position: 0px;
+}
+
+/* line 29, ../sass/creativeSubsidiary.scss */
+#lotterygame {
+  background-image: url(../images/lotterygame_b.jpg);
+  background-position: 0px;
+}
+
+/* line 33, ../sass/creativeSubsidiary.scss */
+#bojoclubImg {
+  background-image: url(../images/bojoclub_b.jpg);
+  background-position: 0px;
+}
+
+/* line 39, ../sass/creativeSubsidiary.scss */
+#presentationResouse {
+  padding: 15px 0px;
+}
+/* line 46, ../sass/creativeSubsidiary.scss */
+#presentationResouse figure article h1 {
+  border-bottom: 2px solid #006bc4;
+  color: #006bc4;
+}
+
+/* line 56, ../sass/creativeSubsidiary.scss */
+#sb-player article h1 {
+  color: #006bc4;
+}
+/* line 59, ../sass/creativeSubsidiary.scss */
+#sb-player article a {
+  color: #D7DAE8;
+  background: url(../images/blue_btn_normail.gif) center top no-repeat;
+}
+/* line 62, ../sass/creativeSubsidiary.scss */
+#sb-player article a:hover {
+  color: #0754A9;
+  background-image: url(../images/blue_btn_hover.gif);
+}
+/* line 68, ../sass/creativeSubsidiary.scss */
+#sb-player .video_discript h1 {
+  color: #006bc4;
+}
+
+/* line 75, ../sass/creativeSubsidiary.scss */
+.actors div h3 {
+  color: #006bc4;
+}
+
+/* line 82, ../sass/creativeSubsidiary.scss */
+#sportgame {
+  background-image: url(../images/sportgame_b.jpg);
+}
+
+/* line 88, ../sass/creativeSubsidiary.scss */
+.banners_nav ul {
+  border-bottom: 2px solid #006bc4;
+}
+/* line 90, ../sass/creativeSubsidiary.scss */
+.banners_nav ul li {
+  float: left;
+  padding: 0.6em 1.5em;
+  color: #616161;
+  background-color: #C2C2C2;
+  border: 1px solid #8a8b86;
+  border-bottom: none;
+  cursor: pointer;
+}
+/* line 98, ../sass/creativeSubsidiary.scss */
+.banners_nav ul li:hover {
+  background-color: #FFF;
+}
+/* line 102, ../sass/creativeSubsidiary.scss */
+.banners_nav ul li + li {
+  border-left: none;
+}
+/* line 105, ../sass/creativeSubsidiary.scss */
+.banners_nav ul .now_banner {
+  background: white url("../images/banner_resouse_nav_bg_b.gif") center top no-repeat;
+}

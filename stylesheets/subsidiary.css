@@ -1,0 +1,512 @@
+/* line 18, ../sass/subsidiary.scss */
+body {
+  background-color: #F8F8F5;
+}
+
+/* line 22, ../sass/subsidiary.scss */
+.resouceImg {
+  background: url(../images/webResouceImgR.jpg) center top no-repeat;
+  height: 513px;
+  margin: -1px 50px 50px 0px;
+  position: relative;
+}
+
+/* line 28, ../sass/subsidiary.scss */
+#videoImg {
+  background-image: url(../images/videoResouceImgR.jpg);
+}
+
+/* line 32, ../sass/subsidiary.scss */
+#bannerImg {
+  background-image: url(../images/bannerResouceImgR.jpg);
+  background-position: 0px;
+}
+
+/* line 37, ../sass/subsidiary.scss */
+#questionImg {
+  background-image: url(../images/question_r.jpg);
+  background-position: 0px;
+}
+
+/* line 42, ../sass/subsidiary.scss */
+#livegame {
+  background-image: url(../images/livegame_r.jpg);
+  background-position: 0px;
+}
+
+/* line 47, ../sass/subsidiary.scss */
+#slotgame {
+  background-image: url(../images/slotgame_r.jpg);
+  background-position: 0px;
+}
+
+/* line 52, ../sass/subsidiary.scss */
+#lotterygame {
+  background-image: url(../images/lotterygame_r.jpg);
+  background-position: 0px;
+}
+
+/* line 56, ../sass/subsidiary.scss */
+#bojoclubImg {
+  background-image: url(../images/bojoclub_r.jpg);
+  background-position: 0px;
+}
+
+/* line 61, ../sass/subsidiary.scss */
+#presentationResouse {
+  padding: 15px 0px;
+}
+/* line 65, ../sass/subsidiary.scss */
+#presentationResouse article p {
+  margin: 20px 12px;
+  font-size: 16px;
+  color: #74795B;
+  line-height: 29px;
+  text-indent: 2em;
+}
+/* line 73, ../sass/subsidiary.scss */
+#presentationResouse figure {
+  margin: 28px 5px;
+}
+/* line 75, ../sass/subsidiary.scss */
+#presentationResouse figure div {
+  height: 140px;
+  margin-top: -1px;
+  text-align: center;
+}
+/* line 81, ../sass/subsidiary.scss */
+#presentationResouse figure article {
+  margin: 0px;
+}
+/* line 83, ../sass/subsidiary.scss */
+#presentationResouse figure article h1 {
+  border-bottom: 2px solid #bd0020;
+  width: 138px;
+  padding: 0px 0px 7px 1px;
+  color: #bd0020;
+  font-size: 19px;
+  font-weight: bold;
+}
+/* line 93, ../sass/subsidiary.scss */
+#presentationResouse figure h2 {
+  padding: 7px 0px;
+  font-size: 14px;
+  color: #4e4e4e;
+}
+/* line 99, ../sass/subsidiary.scss */
+#presentationResouse figure p {
+  padding: 7px 0px;
+  font-size: 14px;
+  color: #4e4e4e;
+  margin: 0px;
+  text-indent: 0em;
+  line-height: 20px;
+}
+
+/* line 118, ../sass/subsidiary.scss */
+#questions article {
+  font-size: 13px;
+  color: #74795B;
+  text-indent: 2em;
+  line-height: 29px;
+}
+/* line 123, ../sass/subsidiary.scss */
+#questions article p {
+  margin: 20px 0px;
+  padding-left: 0px;
+}
+/* line 127, ../sass/subsidiary.scss */
+#questions article h1 {
+  font-size: 20px;
+  margin: 20px 0px;
+  font-weight: bold;
+  color: #bd0020;
+}
+/* line 130, ../sass/subsidiary.scss */
+#questions article ol {
+  text-indent: 0em;
+  list-style-type: upper-roman;
+  padding: 0px 0px 50px 0px;
+}
+/* line 136, ../sass/subsidiary.scss */
+#questions figure figcaption {
+  font-size: 20px;
+  margin: 20px 0px;
+  font-weight: bold;
+  color: #bd0020;
+}
+
+/* line 142, ../sass/subsidiary.scss */
+#sb-player img {
+  margin: 10px;
+  float: left;
+  margin-top: 85px;
+}
+/* line 147, ../sass/subsidiary.scss */
+#sb-player article {
+  background: url(../images/plate.jpg) center top no-repeat;
+  float: left;
+  width: 690px;
+  height: 400px;
+}
+/* line 152, ../sass/subsidiary.scss */
+#sb-player article h1 {
+  color: #bd0020;
+  font-weight: bold;
+  font-size: 60px;
+  line-height: 90px;
+  text-indent: 25px;
+}
+/* line 160, ../sass/subsidiary.scss */
+#sb-player article p {
+  font-size: 15px;
+  text-indent: 25px;
+  line-height: 30px;
+  padding: 0px 20px 0px 20px;
+  text-indent: 0px;
+}
+/* line 167, ../sass/subsidiary.scss */
+#sb-player article a {
+  color: #C4A4AC;
+  display: none;
+  position: absolute;
+  bottom: 30px;
+  right: 30px;
+  background: url(../images/red_btn_normail.gif) center top no-repeat;
+  font-size: 17px;
+  width: 120px;
+  height: 18px;
+  padding: 15px 30px;
+}
+/* line 178, ../sass/subsidiary.scss */
+#sb-player article a:hover {
+  color: #4F0000;
+  background-image: url(../images/red_btn_hover.gif);
+}
+
+/* line 187, ../sass/subsidiary.scss */
+.easyhtml5video {
+  float: left;
+  margin: 10px;
+}
+
+/* line 192, ../sass/subsidiary.scss */
+.video_discript {
+  background: url(../images/plate.jpg) center top no-repeat;
+  float: left;
+  width: 538px;
+  height: 400px;
+}
+/* line 197, ../sass/subsidiary.scss */
+.video_discript h1 {
+  color: #bd0020;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 60px;
+  text-indent: 13px;
+}
+/* line 205, ../sass/subsidiary.scss */
+.video_discript h2 {
+  font-size: 20px;
+  text-indent: 13px;
+  line-height: 28px;
+}
+
+/* line 212, ../sass/subsidiary.scss */
+.bojoclub_content {
+  background: url(../images/bojoclub_content_bg.jpg) right top no-repeat;
+}
+/* line 214, ../sass/subsidiary.scss */
+.bojoclub_content h1 {
+  font-size: 24px;
+  border-bottom: #c11459 solid 2px;
+  text-indent: -119988px;
+  text-align: left;
+  overflow: inherit;
+  width: 432px;
+  margin-left: 188px;
+}
+/* line 223, ../sass/subsidiary.scss */
+.bojoclub_content .bojoclub_feature {
+  margin-top: 114px;
+  background: url(../images/bojoclub_feature.jpg) left top no-repeat;
+}
+/* line 226, ../sass/subsidiary.scss */
+.bojoclub_content .bojoclub_feature p {
+  padding-right: 56px;
+}
+
+/* line 231, ../sass/subsidiary.scss */
+.bojoclub_play_game {
+  margin-top: 50px;
+  background: url(../images/bojoclub_play_game.jpg) left top no-repeat;
+}
+
+/* line 236, ../sass/subsidiary.scss */
+.actors {
+  width: 357px;
+  margin: 8px 0px 0px 100px;
+}
+/* line 240, ../sass/subsidiary.scss */
+.actors ul {
+  width: 460px;
+  *zoom: 1;
+}
+/* line 244, ../sass/subsidiary.scss */
+.actors:before, .actors:after {
+  content: "";
+  display: table;
+}
+/* line 248, ../sass/subsidiary.scss */
+.actors:after {
+  clear: both;
+}
+/* line 251, ../sass/subsidiary.scss */
+.actors div {
+  display: inline-block;
+  float: left;
+  width: 98px;
+  height: 98px;
+  margin: 20px 10px;
+}
+/* line 258, ../sass/subsidiary.scss */
+.actors div h3 {
+  text-align: center;
+  padding-top: 100px;
+  font-size: 18px;
+  color: #bd0020;
+}
+
+/* line 267, ../sass/subsidiary.scss */
+#richer {
+  background: url(../images/richer_icon.jpg) top center no-repeat;
+}
+
+/* line 270, ../sass/subsidiary.scss */
+#gang {
+  background: url(../images/gang_icon.jpg) top center no-repeat;
+}
+
+/* line 273, ../sass/subsidiary.scss */
+#hostess {
+  background: url(../images/hostess_icon.jpg) top center no-repeat;
+}
+
+/* line 277, ../sass/subsidiary.scss */
+#waiter {
+  background: url(../images/waiter_icon.jpg) top center no-repeat;
+}
+
+/* line 280, ../sass/subsidiary.scss */
+#waiter {
+  background: url(../images/waiter_icon.jpg) top center no-repeat;
+}
+
+/* line 283, ../sass/subsidiary.scss */
+#dancer {
+  background: url(../images/dancer_icon.jpg) top center no-repeat;
+}
+
+/* line 286, ../sass/subsidiary.scss */
+#police {
+  background: url(../images/police_icon.jpg) top center no-repeat;
+}
+
+/* line 290, ../sass/subsidiary.scss */
+#teachSlider {
+  width: 620px;
+  height: 287px;
+  padding: 39px 0px 0px 39px;
+  line-height: 30px;
+  font-size: 14px;
+  color: #74795B;
+}
+
+/* line 298, ../sass/subsidiary.scss */
+.flowContainer {
+  width: 439px;
+  height: 589px;
+  position: absolute;
+  top: 12px;
+  left: 78px;
+}
+
+/* line 305, ../sass/subsidiary.scss */
+.flowContainer div {
+  width: 439px;
+  height: 408px;
+  display: block;
+}
+
+/* line 311, ../sass/subsidiary.scss */
+.flowContainer h3 {
+  color: #c11459;
+  font-size: 30px;
+  font-weight: bold;
+  margin: 30px 0px 10px 0px;
+}
+
+/* line 318, ../sass/subsidiary.scss */
+.iphoneFrame {
+  background-image: url("../images/teach/Iphone5.png");
+  width: 620px;
+  height: 287px;
+  position: relative;
+  top: -597px;
+  left: -8px;
+  z-index: 100;
+}
+
+/* line 329, ../sass/subsidiary.scss */
+.game_interface li {
+  text-indent: 10px;
+  color: #f7f7f7;
+  background: url(../images/game_interface_num/no_bg.jpg) left center no-repeat;
+}
+
+/* line 334, ../sass/subsidiary.scss */
+.game_interface span {
+  color: #404040;
+  padding-left: 13px;
+}
+
+/* line 339, ../sass/subsidiary.scss */
+a.btn_backward, a.btn_forward {
+  text-indent: -119988px;
+  overflow: hidden;
+  text-align: left;
+  display: block;
+  width: 120px;
+  height: 120px;
+  background: url(../images/btn_backward.jpg) top center no-repeat;
+  position: relative;
+  top: -576px;
+  left: -55px;
+}
+
+/* line 351, ../sass/subsidiary.scss */
+a.btn_backward:hover {
+  background-image: url(../images/btn_backward_hover.jpg);
+}
+
+/* line 355, ../sass/subsidiary.scss */
+a.btn_forward {
+  background-image: url(../images/btn_forward.jpg);
+  top: -702px;
+  left: 532px;
+}
+
+/* line 360, ../sass/subsidiary.scss */
+a.btn_forward:hover {
+  background-image: url(../images/btn_forward_hover.jpg);
+}
+
+/* line 364, ../sass/subsidiary.scss */
+.bogoclub_download {
+  margin-top: 250px;
+  background: url("../images/bojoclub_download_bg.jpg") center top no-repeat;
+}
+/* line 367, ../sass/subsidiary.scss */
+.bogoclub_download h1 {
+  border-bottom: none;
+  padding: 50px 0px;
+}
+/* line 371, ../sass/subsidiary.scss */
+.bogoclub_download a {
+  background: url(../images/free_normal.png) center top no-repeat;
+  text-align: center;
+  display: block;
+  padding-top: 160px;
+  margin-bottom: 80px;
+}
+/* line 378, ../sass/subsidiary.scss */
+.bogoclub_download a:hover {
+  background-image: url(../images/free_hover.png);
+}
+
+/* line 385, ../sass/subsidiary.scss */
+.container_16 .grid_16 {
+  width: 198px;
+}
+
+/* line 389, ../sass/subsidiary.scss */
+.sport_content {
+  background: url(../images/sportgame_content_bg.jpg) no-repeat;
+  width: 712px;
+  height: 650px;
+  float: right;
+}
+
+/* line 395, ../sass/subsidiary.scss */
+#sportgame {
+  background-image: url(../images/sportgame_r.jpg);
+  background-position: 0px;
+}
+
+/* line 400, ../sass/subsidiary.scss */
+.banners_nav {
+  margin-top: 4em;
+}
+/* line 402, ../sass/subsidiary.scss */
+.banners_nav ul {
+  *zoom: 1;
+  border-bottom: 2px solid #bd0020;
+}
+/* line 22, C:/Users/mis/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/general/_clearfix.scss */
+.banners_nav ul:after {
+  content: "\0020";
+  display: block;
+  height: 0;
+  clear: both;
+  overflow: hidden;
+  visibility: hidden;
+}
+/* line 405, ../sass/subsidiary.scss */
+.banners_nav ul li {
+  float: left;
+  padding: 0.6em 1.5em;
+  color: #616161;
+  background-color: #C2C2C2;
+  border: 1px solid #8a8b86;
+  border-bottom: none;
+  cursor: pointer;
+}
+/* line 413, ../sass/subsidiary.scss */
+.banners_nav ul li:hover {
+  background-color: #FFF;
+}
+/* line 417, ../sass/subsidiary.scss */
+.banners_nav ul li + li {
+  border-left: none;
+}
+/* line 420, ../sass/subsidiary.scss */
+.banners_nav ul .now_banner {
+  background: white url("../images/banner_resouse_nav_bg_r.gif") center top no-repeat;
+}
+
+/* line 425, ../sass/subsidiary.scss */
+.banner_area {
+  width: 620px;
+  overflow: hidden;
+}
+
+/* line 429, ../sass/subsidiary.scss */
+.all_banners {
+  *zoom: 1;
+  position: relative;
+  width: 1860px;
+}
+/* line 22, C:/Users/mis/Desktop/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/general/_clearfix.scss */
+.all_banners:after {
+  content: "\0020";
+  display: block;
+  height: 0;
+  clear: both;
+  overflow: hidden;
+  visibility: hidden;
+}
+/* line 433, ../sass/subsidiary.scss */
+.all_banners section {
+  width: 620px;
+  float: left;
+}
