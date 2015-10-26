@@ -1,0 +1,127 @@
+@charset "UTF-8";
+#businessCard {
+  position: absolute;
+  top: 200px;
+  right: 0px;
+}
+#businessCard figure {
+  background: url(../images/aaronQRcode.jpg) center top no-repeat;
+  width: 106px;
+  height: 306px;
+}
+
+body {
+  background-color: #c2c2c2;
+  font-size: 14px;
+  color: #d5d4d4;
+  font-family: Arial, "Microsoft YaHei", "宋体", "Lucida Sans Unicode", Helvetica, Verdana, sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+#mainContent {
+  width: 1300px;
+  margin: 0px auto;
+}
+
+.hideWords {
+  display: none;
+}
+
+header {
+  background-color: #272727;
+}
+header #logo {
+  margin: 0px auto;
+  width: 219px;
+  height: 138px;
+  background: url(../images/integrateLogo.jpg) center top no-repeat;
+}
+header #mainBar {
+  height: 36px;
+  background-color: #bd0020;
+  border-bottom: 1px solid #AA001E;
+}
+header #mainBar ul {
+  margin: 0 auto;
+}
+header #mainBar ul li {
+  padding: 9px 60px;
+  float: left;
+  font-size: 18px;
+}
+header #mainBar ul li a {
+  color: #d5d4d4;
+}
+
+#slideShow {
+  background-color: #F8F8F5;
+}
+#slideShow div {
+  width: 938px;
+  height: 279px;
+  margin: 0px auto;
+}
+
+#slideShowSelect {
+  width: 100px;
+  margin: 25px auto;
+}
+#slideShowSelect a {
+  margin: 0px 7px;
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  background: url(../images/grayBall.gif) center top no-repeat;
+}
+#slideShowSelect .nowPlay {
+  background-image: url(../images/redBall.gif);
+}
+
+#agentResouse {
+  background-color: #c2c2c2;
+  margin: 0px 0px 40px 0px;
+}
+#agentResouse ul {
+  overflow: hidden;
+}
+#agentResouse ul li a figure {
+  background-color: #bd0020;
+  display: block;
+  height: 214px;
+}
+#agentResouse ul li a figure span {
+  visibility: hidden;
+}
+#agentResouse ul li a figure div {
+  margin: 152px 0px 0px 0px;
+}
+#agentResouse ul li a figure div figcaption {
+  background-color: #272727;
+  border-top: 4px solid #bd0020;
+  color: #d5d4d4;
+  padding: 15px 0px;
+  text-align: center;
+  font-size: 17px;
+}
+#agentResouse ul li a .videoImg {
+  background: url(../images/video.jpg) center top no-repeat;
+}
+#agentResouse ul li a .bannerImg {
+  background: url(../images/banner.jpg) center top no-repeat;
+}
+#agentResouse ul li a .websiteImg {
+  background: url(../images/website.jpg) center top no-repeat;
+}
+
+footer {
+  border-bottom: 7px solid #bd0020;
+  background-color: #272727;
+  padding: 0px;
+}
+footer p {
+  padding: 20px 0px;
+  text-align: center;
+}

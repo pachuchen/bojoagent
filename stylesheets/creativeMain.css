@@ -1,0 +1,46 @@
+/* line 6, ../sass/creativeMain.scss */
+#businessCard figure {
+  background-image: url(../images/andersonQRcode.jpg);
+}
+
+/* line 12, ../sass/creativeMain.scss */
+header #logo {
+  background: url(../images/creativeLogo.jpg) center top no-repeat;
+}
+/* line 15, ../sass/creativeMain.scss */
+header #mainBar {
+  background-color: #006bc4;
+  border-bottom-color: #0E3965;
+}
+/* line 20, ../sass/creativeMain.scss */
+header #mainBar ul li #gamesMenu {
+  background-color: #006bc4;
+}
+/* line 23, ../sass/creativeMain.scss */
+header #mainBar ul li:hover {
+  background-color: #5BB6FF;
+}
+
+/* line 34, ../sass/creativeMain.scss */
+#slideShowSelect .nowPlay {
+  background-image: url(../images/blueBall.gif);
+}
+
+/* line 44, ../sass/creativeMain.scss */
+#agentResouse ul li a figure {
+  background-color: #006bc4;
+}
+/* line 47, ../sass/creativeMain.scss */
+#agentResouse ul li a figure figcaption {
+  border-top: 4px solid #006bc4;
+}
+
+/* line 57, ../sass/creativeMain.scss */
+footer {
+  border-bottom: 7px solid #006bc4;
+}
+
+/* line 61, ../sass/creativeMain.scss */
+.theme-default .nivo-controlNav a.active {
+  background-image: url(../images/blueBall.gif);
+}

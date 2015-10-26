@@ -1,0 +1,112 @@
+.presentationWeb-sprite, .presentationWeb-bb3d, .presentationWeb-colordish, .presentationWeb-keno, .presentationWeb-slot, .presentationWeb-sport, .presentationWeb-texaPoker {
+  background: url('../images/presentationWeb-sd61b5b9a9e.png') no-repeat;
+}
+
+.presentationVideo-sprite, .presentationVideo-game_live_bb3d, .presentationVideo-game_live_dt, .presentationVideo-game_live_mahjong, .presentationVideo-game_live_roulette, .presentationVideo-game_live_sedie, .presentationVideo-game_live_sicbo, .presentationVideo-game_live_texas, .presentationVideo-game_live_wenzhou {
+  background: url('../images/presentationVideo-s53965556fb.png') no-repeat;
+}
+
+.presentationWeb-bb3d {
+  background-position: 0 -210px;
+}
+
+.presentationWeb-colordish {
+  background-position: 0 -525px;
+}
+
+.presentationWeb-keno {
+  background-position: 0 -420px;
+}
+
+.presentationWeb-slot {
+  background-position: 0 0;
+}
+
+.presentationWeb-sport {
+  background-position: 0 -105px;
+}
+
+.presentationWeb-texaPoker {
+  background-position: 0 -315px;
+}
+
+.presentationVideo-game_live_bb3d {
+  background-position: 0 -980px;
+}
+
+.presentationVideo-game_live_dt {
+  background-position: 0 -560px;
+}
+
+.presentationVideo-game_live_mahjong {
+  background-position: 0 -420px;
+}
+
+.presentationVideo-game_live_roulette {
+  background-position: 0 0;
+}
+
+.presentationVideo-game_live_sedie {
+  background-position: 0 -280px;
+}
+
+.presentationVideo-game_live_sicbo {
+  background-position: 0 -140px;
+}
+
+.presentationVideo-game_live_texas {
+  background-position: 0 -840px;
+}
+
+.presentationVideo-game_live_wenzhou {
+  background-position: 0 -700px;
+}
+
+body {
+  background-color: #F8F8F5;
+}
+
+.resouceImg {
+  background: url(../images/webResouceImgR.jpg) center top no-repeat;
+  height: 513px;
+  margin: -1px 50px 50px 0px;
+}
+
+#videoImg {
+  background-image: url(../images/videoResouceImgR.jpg);
+}
+
+#presentationResouse {
+  padding: 15px 0px;
+}
+#presentationResouse article p {
+  margin: 20px 30px;
+  font-size: 16px;
+  color: #74795B;
+  line-height: 29px;
+  text-indent: 2em;
+}
+#presentationResouse figure {
+  margin: 28px 5px;
+}
+#presentationResouse figure div {
+  height: 105px;
+  margin-top: -1px;
+  background-color: #bd0020;
+}
+#presentationResouse figure article {
+  margin: 0px;
+}
+#presentationResouse figure article h1 {
+  border-bottom: 2px solid #bd0020;
+  width: 120px;
+  padding: 0px 0px 3px 1px;
+  color: #bd0020;
+  font-size: 19px;
+  font-weight: bold;
+}
+#presentationResouse figure h2 {
+  padding: 7px 0px;
+  font-size: 14px;
+  color: #4e4e4e;
+}
